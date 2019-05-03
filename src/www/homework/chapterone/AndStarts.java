@@ -7,7 +7,7 @@
 * @email 876459397@qq.com
 * @CSDN https://blog.csdn.net/wfcn_zyq
 */
-package ChapterOne;
+package www.homework.chapterone;
 import java.io.*;
 import java.util.Arrays;
 import java.util.Scanner;

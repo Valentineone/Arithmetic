@@ -22,17 +22,18 @@ public class Code_06_FruitTable {
             String city = input.next();
             int num = input.nextInt();
             if (cityFruit.containsKey(city)) {
+                fruitNum = new TreeMap<>();
                 fruitNum.putAll(cityFruit.get(city));
             } else {
                 fruitNum = new TreeMap<>();
             }
+
             if (fruitNum.containsKey(fruit)) {
                 fruitNum.put(fruit,fruitNum.get(fruit) + num);
             } else {
                 fruitNum.put(fruit,num);
             }
             cityFruit.put(city,fruitNum);
-
         }
         for (Map.Entry<String,Map<String,Integer>> entry : cityFruit.entrySet()
              ) {

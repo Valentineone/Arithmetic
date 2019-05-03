@@ -1,4 +1,4 @@
-package ChapterTwo;
+package www.homework.chaptertwo;
 
 import java.util.Scanner;
 

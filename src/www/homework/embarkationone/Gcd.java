@@ -1,4 +1,4 @@
-package EmbarkationOne;
+package www.homework.embarkationone;
 /**
 * @describe
 * @file Gcd
