@@ -14,8 +14,10 @@ public class Client {
     }
 
     public static void main(String[] args) {
-        AirConditionFactory airConditionFactory = new HaierFactory();
+        AirConditionFactory haierFactory = new HaierFactory();
         Client client = new Client();
-        client.buyAirCondition(airConditionFactory.createAriCondition());
+        client.buyAirCondition(haierFactory.createAriCondition());
+        AirConditionFactory mideaFactory = new MideaFactory();
+        client.buyAirCondition(mideaFactory.createAriCondition());
     }
 }

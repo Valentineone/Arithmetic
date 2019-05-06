@@ -23,17 +23,5 @@ public class Woman implements Person{
      * @CSDN https://blog.csdn.net/wfcn_zyq
      * @describe
      */
-    public static class NewPerson {
-        public  void newPerson(Person person) {
-            person.printPerson();
-        }
 
-        public static void main(String[] args) {
-            NewPerson newPerson = new NewPerson();
-            Scanner input = new Scanner(System.in);
-            String type = input.nextLine();
-            Person person = Nvwa.getInstance(type);
-            newPerson.newPerson(person);
-        }
-    }
 }

@@ -1,5 +1,8 @@
 package www.homework.embarkationfournext.reflect;
 
+import java.text.CollationElementIterator;
+import java.util.Collection;
+
 /**
  * @author wangchong
  * @date 2019/4/29 8:56
@@ -22,5 +25,6 @@ public class Client {
        IFactory pcFactory = Factory.getInstance("www.homework.embarkationfournext.reflect.PcFactory");
         client.buyCpu(pcFactory.createCpu());
         client.buyRam(pcFactory.createRam());
+
     }
 }
