@@ -7,10 +7,10 @@ package advanced_class_03;
  * 
  * In computer science, an AVL tree is a self-balancing binary search tree, and
  * it was the first such data structure to be invented.[1] In an AVL tree, the
- * heights of the two child subtrees of any node differ by at most one. Lookup,
+ * heights of the two child subtrees of any node differ by at most One. Lookup,
  * insertion, and deletion all take O(log n) time in both the average and worst
  * cases, where n is the number of nodes in the tree prior to the operation.
- * Insertions and deletions may require the tree to be rebalanced by one or more
+ * Insertions and deletions may require the tree to be rebalanced by One or more
  * tree rotations.
  * 
  * @author Ignas Lelys
@@ -23,8 +23,8 @@ public class AVLTree extends AbstractSelfBalancingBinarySearchTree {
      * @see trees.AbstractBinarySearchTree#insert(int)
      * 
      *      AVL tree insert method also balances tree if needed. Additional
-     *      height parameter on node is used to track if one subtree is higher
-     *      than other by more than one, if so AVL tree rotations is performed
+     *      height parameter on node is used to track if One subtree is higher
+     *      than other by more than One, if so AVL tree rotations is performed
      *      to regain balance of the tree.
      */
     @Override

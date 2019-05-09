@@ -40,7 +40,7 @@ public class RedBlackTree extends AbstractSelfBalancingBinarySearchTree {
     protected Node delete(Node deleteNode) {
         Node replaceNode = null; // track node that replaces removedOrMovedNode
         if (deleteNode != null && deleteNode != nilNode) {
-            Node removedOrMovedNode = deleteNode; // same as deleteNode if it has only one child, and otherwise it replaces deleteNode
+            Node removedOrMovedNode = deleteNode; // same as deleteNode if it has only One child, and otherwise it replaces deleteNode
             ColorEnum removedOrMovedNodeColor = ((RedBlackNode)removedOrMovedNode).color;
         
             if (deleteNode.left == nilNode) {

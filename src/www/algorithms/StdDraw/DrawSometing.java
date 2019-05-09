@@ -12,6 +12,7 @@ public class DrawSometing {
             StdDraw.point(i,i);
             StdDraw.point(i,i*i);
             StdDraw.point(i,i*Math.log(i));
+            StdDraw.filledRectangle(i,0,1,i * i);
         }
     }
 }

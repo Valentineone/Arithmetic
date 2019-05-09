@@ -1,7 +1,7 @@
 package www.niuke.advance.class_02;
 /**
 * @date 2019/3/2
-* @describe 初级 one 7:00
+* @describe 初级 One 7:00
  *匹配程度：某个字符前面最长前缀和最长后缀的匹配个数
  *
  * getIndexOf(str1,str2)(KMP 实现)

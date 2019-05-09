@@ -151,7 +151,7 @@ public class AbstractBinarySearchTree {
 	}
 
 	/**
-	 * Put one node from tree (newNode) to the place of another (nodeToReplace).
+	 * Put One node from tree (newNode) to the place of another (nodeToReplace).
 	 * 
 	 * @param nodeToReplace
 	 *            Node which is replaced by newNode and removed from tree.

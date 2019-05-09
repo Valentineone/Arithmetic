@@ -46,7 +46,7 @@ public class L7_4_Shuai {
             }
         }
         if (res.size() == 0) {
-            System.out.println("No one is handsome");
+            System.out.println("No One is handsome");
         }
     }
 }

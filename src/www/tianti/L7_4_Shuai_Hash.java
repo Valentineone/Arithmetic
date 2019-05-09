@@ -52,7 +52,7 @@ public class L7_4_Shuai_Hash {
             }
         }
         if (arrayList.size() == 0) {
-            System.out.println("No one is handsome");
+            System.out.println("No One is handsome");
         }
     }
 }

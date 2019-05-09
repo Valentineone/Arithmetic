@@ -55,8 +55,8 @@ interface IFood {
 }
 
 /**
-* 建立不同食物的抽象基类
-*/
+ * 建立不同食物的抽象基类
+ */
 
 /**
  * 汉堡基类
@@ -361,33 +361,87 @@ class FoodFactory {
     }
 }
 
+interface Pay {
+    public float countMoney(float clientpay);
+}
+
+class AliPay implements Pay {
+
+
+    @Override
+    public float countMoney(float clientpay) {
+        System.out.println("使用支付宝支付，您有5元红包");
+        return clientpay - 5;
+    }
+}
+
+class TencentPay implements Pay {
+
+    @Override
+    public float countMoney(float clientpay) {
+        System.out.println("使用微信支付，您可以享受95折");
+        return clientpay * 0.95f;
+    }
+}
+
+class IPay implements Pay {
+
+    @Override
+    public float countMoney(float shouldPayMoney) {
+        System.out.println("使用现金支付，您没有优惠");
+        return shouldPayMoney;
+    }
+}
+
+class HandlerPay {
+    private Pay pay;
+
+    public HandlerPay(Pay pay) {
+        this.pay = pay;
+    }
+
+    public float countMoney(float clientMoney) {
+        return pay.countMoney(clientMoney);
+    }
+}
 public class ReflectFoodFactory {
     public static void menu() {
         System.out.println(
-                 "***********************************************\n"
-                +"*                 KFC点餐系统！                *\n"
-                +"***********************************************\n"
-                +"******************大吉大利菜单******************\n"
-                +"汉堡\n"
-                + "\t\t1.芝士帕尼尼\t\t12.5元\n" + "\t\t2.劲脆鸡腿堡\t\t19.0元 \n"
-                +"烤鸡翅\n"
-                + "\t\t3.热辣薯片鸡翅\t12.0元\n" + "\t\t4.劲爆香辣鸡翅\t12.0元\n"
-                + "饮料\n"
-                + "\t\t5.百事可乐\t\t10.5元\n" + "\t\t6.抹茶拿铁\t\t17.0元\n"
-                +"甜点\n"
-                + "\t\t7.巧克力华夫\t\t11.0元\n" + "\t\t8.香香红豆派\t\t13.0元\n"
-                +"套餐\n"
-                +"\t\t9.翅桶嫩牛五方套餐\t\t89.0元\n"
-                + "\t\t\t香辣鸡翅 6 块\n" + "\t\t\t新奥尔良烤翅 4 块\n" + "\t\t\t香辣鸡腿堡 1 个\n" + "\t\t\t嫩牛五方 1 个 + 饮料 2 杯 \n"
-                +"\t\t10.辣鸭肉卷人气明星套餐\t39.0元\n"
-                + "\t\t\t老北京香辣鸭肉卷 1 个\n" + "\t\t\t香骨鸡 3 块\n" + "\t\t\t醇香土豆泥 1 份\n" + "\t\t\t饮料 1 杯\n"
-                +"*********************************************\n");
+                "***********************************************\n"
+                        +"*                 KFC点餐系统！                *\n"
+                        +"***********************************************\n"
+                        +"*********************菜单***********************\n"
+                        +"汉堡\n"
+                        + "\t\t1.芝士帕尼尼\t\t12.5元\n" + "\t\t2.劲脆鸡腿堡\t\t19.0元 \n"
+                        +"烤鸡翅\n"
+                        + "\t\t3.热辣薯片鸡翅\t12.0元\n" + "\t\t4.劲爆香辣鸡翅\t12.0元\n"
+                        + "饮料\n"
+                        + "\t\t5.百事可乐\t\t10.5元\n" + "\t\t6.抹茶拿铁\t\t17.0元\n"
+                        +"甜点\n"
+                        + "\t\t7.巧克力华夫\t\t11.0元\n" + "\t\t8.香香红豆派\t\t13.0元\n"
+                        +"套餐\n"
+                        +"\t\t9.翅桶嫩牛五方套餐\t\t89.0元\n"
+                        + "\t\t\t香辣鸡翅 6 块\n" + "\t\t\t新奥尔良烤翅 4 块\n" + "\t\t\t香辣鸡腿堡 1 个\n" + "\t\t\t嫩牛五方 1 个 + 饮料 2 杯 \n"
+                        +"\t\t10.辣鸭肉卷人气明星套餐\t39.0元\n"
+                        + "\t\t\t老北京香辣鸭肉卷 1 个\n" + "\t\t\t香骨鸡 3 块\n" + "\t\t\t醇香土豆泥 1 份\n" + "\t\t\t饮料 1 杯\n"
+                        +"*********************************************\n");
     }
     private static int get12() {
         Scanner input = new Scanner(System.in);
         while (true) {
             String re = input.nextLine();
             if (re.equals("2") || re.equals("1")) {
+                return Integer.valueOf(re);
+            } else {
+                System.out.println("输入错误,重新输入吧！");
+            }
+        }
+    }
+    private static int get13() {
+        Scanner input = new Scanner(System.in);
+        while (true) {
+            String re = input.nextLine();
+            if (re.equals("2") || re.equals("1") || re.equals("3")) {
                 return Integer.valueOf(re);
             } else {
                 System.out.println("输入错误,重新输入吧！");
@@ -436,7 +490,7 @@ public class ReflectFoodFactory {
             }
         }
     }
-    public static float allMoney = 0.0f;
+    public static float shouldPayMoney = 0.0f;
     public static ArrayList<IFood> baseFoods = new ArrayList<>();
     public static void getFood() {
         IKfcFactory food = FoodFactory.getInstance("www.homework.chapterfour.kfc.realkfc.KfcFoodFactory");
@@ -448,52 +502,52 @@ public class ReflectFoodFactory {
             switch (a) {
                 case 1:
                     BaseHamburg baseHamburg = food.createPaNiNiHamburg(b);
-                    allMoney += baseHamburg.totalPrice();
+                    shouldPayMoney += baseHamburg.totalPrice();
                     baseFoods.add(baseHamburg);
                     break;
                 case 2:
                     BaseHamburg baseHamburg1 = food.createCrispyChickenHamburg(b);
-                    allMoney += baseHamburg1.totalPrice();
+                    shouldPayMoney += baseHamburg1.totalPrice();
                     baseFoods.add(baseHamburg1);
                     break;
                 case 3:
                     BaseChicken baseChicken = food.createHotPotatoChipsChickenWings(b);
-                    allMoney += baseChicken.totalPrice();
+                    shouldPayMoney += baseChicken.totalPrice();
                     baseFoods.add(baseChicken);
                     break;
                 case 4:
                     BaseChicken baseChicken1 = food.createPiquancyChickenWings(b);
-                    allMoney += baseChicken1.totalPrice();
+                    shouldPayMoney += baseChicken1.totalPrice();
                     baseFoods.add(baseChicken1);
                     break;
                 case 5:
                     BaseBeverage baseBeverage = food.createBaiShiKolaBeverage(b);
-                    allMoney += baseBeverage.totalPrice();
+                    shouldPayMoney += baseBeverage.totalPrice();
                     baseFoods.add(baseBeverage);
                     break;
                 case 6:
                     BaseBeverage baseBeverage1 = food.createCoffeeBeverage(b);
-                    allMoney += baseBeverage1.totalPrice();
+                    shouldPayMoney += baseBeverage1.totalPrice();
                     baseFoods.add(baseBeverage1);
                     break;
                 case 7:
                     BaseSweetmeats baseSweetmeats = food.createChocolateWaffleSweetmeats(b);
-                    allMoney += baseSweetmeats.totalPrice();
+                    shouldPayMoney += baseSweetmeats.totalPrice();
                     baseFoods.add(baseSweetmeats);
                     break;
                 case 8:
                     BaseSweetmeats baseSweetmeats1 = food.createRedBeanPieSweetmeats(b);
-                    allMoney += baseSweetmeats1.totalPrice();
+                    shouldPayMoney += baseSweetmeats1.totalPrice();
                     baseFoods.add(baseSweetmeats1);
                     break;
                 case 9:
                     BaseSetMeal baseSetMeal = food.createWingBucketTenderFiveSides(b);
-                    allMoney += baseSetMeal.totalPrice();
+                    shouldPayMoney += baseSetMeal.totalPrice();
                     baseFoods.add(baseSetMeal);
                     break;
                 case 10:
                     BaseSetMeal baseSetMeal1 = food.createSpicyDuckRollPopularStarMealBase(b);
-                    allMoney += baseSetMeal1.totalPrice();
+                    shouldPayMoney += baseSetMeal1.totalPrice();
                     baseFoods.add(baseSetMeal1);
                 default:
                     break;
@@ -505,17 +559,48 @@ public class ReflectFoodFactory {
                 break;
             }
         }
-        System.out.println("总价格：" + allMoney + "元");
+        System.out.println("总价格：" + shouldPayMoney + "元");
+    }
+
+    public static void selectMenu() {
+        System.out.println("***************");
+        System.out.println("*   1.支付宝  *");
+        System.out.println("*   2.微信    *");
+        System.out.println("*   3.现金    *");
+        System.out.println("***************");
+    }
+    public static float selectPay(float shouldPayMoney) throws ClassNotFoundException, IllegalAccessException, InstantiationException {
+        Pay pay;
+        float resMoney = 0.0f;
+        selectMenu();
+        int selcet = get13();
+        if (selcet == 1) {
+            pay = (Pay)Class.forName("www.homework.chapterfour.kfc.realkfc.AliPay").newInstance();
+            HandlerPay handlerPay = new HandlerPay(pay);
+            resMoney = handlerPay.countMoney(shouldPayMoney);
+        } else if (selcet == 2) {
+            pay = (Pay)Class.forName("www.homework.chapterfour.kfc.realkfc.TencentPay").newInstance();
+            HandlerPay handlerPay = new HandlerPay(pay);
+            resMoney = handlerPay.countMoney(shouldPayMoney);
+        } else if (selcet == 3) {
+            pay = (Pay)Class.forName("www.homework.chapterfour.kfc.realkfc.IPay").newInstance();
+            HandlerPay handlerPay = new HandlerPay(pay);
+            resMoney = handlerPay.countMoney(shouldPayMoney);
+        }
+        return resMoney;
     }
     private static float change;
-    public static void giveMoney() {
+    public static void giveMoney() throws IllegalAccessException, InstantiationException, ClassNotFoundException {
         System.out.print("使用优惠券(有则直接输入优惠卷价格，没有则输入0):");
         float cutDown = getFloatNum();
         float giveMoney = 0.0f;
+
+
         while (true) {
             System.out.print("您将付多少钱:");
             giveMoney = getFloatNum();
-            change = giveMoney + cutDown - allMoney;
+            shouldPayMoney = selectPay(shouldPayMoney);
+            change = giveMoney + cutDown - shouldPayMoney;
             if (change < 0) {
                 System.out.println("您付的钱不足，请重新付钱！");
             } else {
@@ -536,17 +621,19 @@ public class ReflectFoodFactory {
         writer.write("订餐时间  " + simpleDateFormat.format(date) +"\r\n");
         writer.write("  食物\t\t\t\t单价(元)\t数量\t价格(元)\r\n");
         for (int i = 0; i < baseFoods.size(); i++) {
-           writer.write(baseFoods.get(i).toString() + "\r\n");
+            writer.write(baseFoods.get(i).toString() + "\r\n");
         }
         writer.write("\r\n");
-        writer.write("总计  " + allMoney + "元   找零  " + change + "元\r\n");
+        writer.write("总计  " + shouldPayMoney + "元   找零  " + change + "元\r\n");
         writer.write("收银员  " + "小姐姐\r\n");
         writer.write("欢迎下次光临(*^▽^*)\r\n");
         writer.write("****************************************************\r\n");
         writer.close();
 
     }
-    public static void main(String[] args) {
+    public static void main(String[] args) throws IllegalAccessException, ClassNotFoundException, InstantiationException {
+        System.out.println(AliPay.class);
+
         menu();
         getFood();
         giveMoney();
