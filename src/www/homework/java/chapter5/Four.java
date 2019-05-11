@@ -2,7 +2,6 @@ package www.homework.java.chapter5;
 
 import edu.princeton.cs.algs4.StdDraw;
 
-import java.awt.*;
 import java.util.*;
 
 /**
