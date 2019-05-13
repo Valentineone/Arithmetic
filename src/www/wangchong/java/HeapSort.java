@@ -4,16 +4,19 @@ import java.util.Arrays;
 
 public class HeapSort {
 
-            public static void heapSort(int[] arr) {
+         public static void heapSort(int[] arr) {
                 if (arr == null || arr.length < 2) {
                     return;
         }
         for (int i = 0; i < arr.length; i++) {
-            heapInsert(arr, i);//构建大根堆
+            //构建大根堆
+            heapInsert(arr, i);
         }
         int size = arr.length;
-        swap(arr, 0, --size);//交换根结点和最后一个结点，破坏了大根堆的结构
-        while (size > 0) {//不断重复交换根结点和最后一个节点，并且每交换一次要进行一次重建堆的过程，交换的根结点不包含在内
+        //交换根结点和最后一个结点，破坏了大根堆的结构
+        swap(arr, 0, --size);
+        //不断重复交换根结点和最后一个节点，并且每交换一次要进行一次重建堆的过程，交换的根结点不包含在内
+        while (size > 0) {
             heapify(arr, 0, size);
             swap(arr, 0, --size);
         }

@@ -3,36 +3,35 @@ package www.wangchong.java;
 import java.util.Arrays;
 
 public class QuickSortOne {
-     private static void quickSort(int[] arr) {
-        if (arr == null || arr.length < 2) {
-            return;
+    public static void quickSort(int
+                                 [] arr) {
+        if (arr.length < 2) {
+           return;
         }
-        quickSort(arr, 0, arr.length - 1);
+        quickSort(arr,0,arr.length - 1);
     }
-
-    private static void quickSort(int[] arr, int left, int right) {
-        if(left < right) {
-            swap(arr, left + (int) (Math.random() * (right - left + 1)), right);
-            int[] p = partition(arr, left, right);
-            quickSort(arr, left, p[0]);
-            quickSort(arr, p[1], right);
+    public static void quickSort(int[] arr, int left, int right) {
+        if (left < right) {
+            swap(arr,right,left + (int) (Math.random() * (right - left + 1)));
+            int[] p = partition(arr,left,right);
+            quickSort(arr,left,p[0]);
+            quickSort(arr,p[1],right);
         }
     }
-
     public static int[] partition(int[] arr, int left, int right) {
         int less = left - 1;
         int more = right;
         while (left < more) {
             if (arr[left] < arr[right]) {
-                swap(arr, ++less, left++);
+                swap(arr,++less,left++);
             } else if (arr[left] > arr[right]) {
-                swap(arr, --more, left);
+                swap(arr,--more,left);
             } else {
                 left++;
             }
         }
-        swap(arr, more++, right);
-        return new int[] { less, more };
+        swap(arr,more++,right);
+        return new int[]{less,more};
     }
     public static void swap(int[] arr, int i, int j) {
         int temp = arr[i] ;
@@ -100,7 +99,6 @@ public class QuickSortOne {
                 break;
             }
         }
-
         System.out.println(succeed ? "Your quick sort is right" : "Your quick sort is wrong");
         int[] arr = generateRandomArray(maxSize,maxValue);
         quickSort(arr);
