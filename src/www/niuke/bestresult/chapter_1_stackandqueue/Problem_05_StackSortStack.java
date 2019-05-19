@@ -1,4 +1,4 @@
-package chapter_1_stackandqueue;
+package www.niuke.bestresult.chapter_1_stackandqueue;
 
 import java.util.Stack;
 

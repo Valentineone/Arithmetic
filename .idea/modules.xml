@@ -3,7 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/Arithmetic.iml" filepath="$PROJECT_DIR$/Arithmetic.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Text/Text.iml" filepath="$PROJECT_DIR$/Text/Text.iml" />
     </modules>
   </component>
 </project>

@@ -5,218 +5,175 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbe55e7e-e1cd-47a1-bd25-c5b771375f4a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/acm/Code_K.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/acm/Code_K.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/AbstractFood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/BeefBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Chicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/ChickenWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Chips.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Coffee.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Combo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Customer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Dessert.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Drinks.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/DrumStick.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/EggTart.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Hamburger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/KFCFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Kola.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Main.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Milky.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/OneCombo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/OrleansBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/PopcornChicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/ShrimpBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/Sundae.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/ThreeCombo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/TwoCombo.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/mykfc/ZingerBurger.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/AliPay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaiShiKolaBeverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaseBeverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaseChicken.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaseFood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaseHamburg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaseSetMeal.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/BaseSweetmeats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/ChocolateWaffleSweetmeats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/CoffeeBeverage.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/CrispyChickenHamburg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/FoodFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/HandlerPay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/HotPotatoChipsChickenWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/IFood.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/IKfcFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/IPay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/KfcFoodFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/PaNiNiHamburg.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/Pay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/PiquancyChickenWings.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/RedBeanPieSweetmeats.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/ReflectFoodFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/SpicyDuckRollPopularStarMealBase.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/TencentPay.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/kfc/realkfc/WingBucketTenderFiveSides.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/Apple.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/Computer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/ComputerFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/Food.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/FruitFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/MacBookComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/Orange.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/ReflectFruitFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/Text.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterfour/test/XiaoMiBookComputer.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterone/AndStarts$1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterone/AndStarts$date.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterone/AndStarts.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/AllPureResultGameOf24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/AllResultGameOf24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/EachSecond.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/FourRandomGameExceptionThreadOf24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/FourRandomGameOf24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/GameOf24.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/MyTimerTask.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/MyTimerTask1.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/MyTimerTask2.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/TopList.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/sort.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapterthree/user.txt" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chaptertwo/GcdPro.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfour/Character.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfour/RPG.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/CPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/ComputerProduct.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/IFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/MacCpu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/MacFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/MacRam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/PcCpu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/PcFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/PcRam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/RAM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/one/Man.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/one/NewPerson.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/one/Nvwa.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/one/Person.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/one/Robot.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/one/Woman.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/CPU.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/Factory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/IFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/MacCpu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/MacFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/MacRam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/PcCpu.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/PcFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/PcRam.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/reflect/RAM.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/AirCondition.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/AirConditionFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/Client.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/Haier.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/HaierFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/Midea.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationfournext/two/MideaFactory.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationone/Gcd.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkationone/Stopwatch.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/java/QuickSortOne.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/java/QuickSortOne.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/study/FileRead.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/study/FileRead.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/AbstractFood.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/AbstractFood.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/BeefBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/BeefBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Chicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Chicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/ChickenWings.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/ChickenWings.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Chips.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Chips.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Coffee.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Coffee.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Combo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Combo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Customer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Customer.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Dessert.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Dessert.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Drinks.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Drinks.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/DrumStick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/DrumStick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/EggTart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/EggTart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Food.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Food.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Hamburger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Hamburger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/KFCFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/KFCFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Kola.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Kola.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Milky.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Milky.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/OneCombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/OneCombo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/OrleansBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/OrleansBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/PopcornChicken.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/PopcornChicken.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/ShrimpBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/ShrimpBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/Sundae.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/Sundae.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/ThreeCombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/ThreeCombo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/TwoCombo.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/TwoCombo.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/mykfc/ZingerBurger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/mykfc/ZingerBurger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/kfc/realkfc/ReflectFoodFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/kfc/realkfc/ReflectFoodFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/test/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/test/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/test/ReflectFruitFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/test/ReflectFruitFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterfour/test/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_4/test/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterone/AndStarts.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_1/AndStarts.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterone/Text.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_1/Text.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterone/TextTryCatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_1/TextTryCatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterone/VersionOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_1/VersionOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/AllPureResultGameOf24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/AllPureResultGameOf24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/AllResultGameOf24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/AllResultGameOf24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/EachSecond.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/EachSecond.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/FourRandomGameExceptionThreadOf24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/FourRandomGameExceptionThreadOf24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/FourRandomGameOf24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/FourRandomGameOf24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/GameOf24.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/GameOf24.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/MyTimerTask.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/MyTimerTask.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/MyTimerTask1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/MyTimerTask1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/MyTimerTask2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/MyTimerTask2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/TopList.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/TopList.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/sort.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/sort.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chapterthree/user.txt" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_3/user.txt" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chaptertwo/GcdPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_2/GcdPro.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chaptertwo/Hankson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_2/Hankson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chaptertwo/HanksonRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_2/HanksonRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/chaptertwo/Main.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_2/Main.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfour/Character.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4/Character.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfour/RPG.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4/RPG.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/ComputerProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/ComputerProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/one/Man.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Man.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/one/NewPerson.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/NewPerson.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/one/Nvwa.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Nvwa.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/one/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Person.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/one/Robot.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Robot.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/one/Woman.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Woman.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/CPU.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/CPU.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/Factory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/Factory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/IFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/IFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/MacCpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/MacCpu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/MacFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/MacFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/MacRam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/MacRam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/PcCpu.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/PcCpu.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/PcFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/PcFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/PcRam.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/PcRam.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/RAM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/RAM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/AirCondition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/AirCondition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/AirConditionFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/AirConditionFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/Client.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/Client.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/Haier.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/Haier.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/HaierFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/HaierFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/Midea.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/Midea.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationfournext/two/MideaFactory.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/MideaFactory.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationone/Gcd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_1/Gcd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationone/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_1/Test.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationone/TestOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_1/TestOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkationtwo/Turing.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/embarkation_2/Turing.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/wangchong/study/FileRead.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/wangchong/study/FileRead.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Text/Text.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkation_5/HelloApp.idl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/java/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/java/HeapSort.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_02_TwoStacksImplementQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_02_TwoStacksImplementQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_04_DogCatQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_04_DogCatQueue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_06_HanoiStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_06_HanoiStack.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_01_PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_01_PrintCommonPart.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_02_RemoveLastKthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_02_RemoveLastKthNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_03_RemoveNodeByRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_03_RemoveNodeByRatio.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_04_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_04_ReverseList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_05_ReversePartList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_05_ReversePartList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_06_JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_06_JosephusProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_07_IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_07_IsPalindromeList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_08_SmallerEqualBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_08_SmallerEqualBigger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_09_CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_09_CopyListWithRandom.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_10_AddTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_10_AddTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_11_FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_11_FindFirstIntersectNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_12_ConvertEveryKNodesInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_12_ConvertEveryKNodesInList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_13_RemoveRepetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_13_RemoveRepetition.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_14_RemoveGivenValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_14_RemoveGivenValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_15_BSTtoDoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_15_BSTtoDoubleLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_16_ListSelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_16_ListSelectionSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_17_RemoveNodeWired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_17_RemoveNodeWired.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_18_InsertNumToCircularList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_18_InsertNumToCircularList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_19_MergeTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_19_MergeTwoLinkedLists.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_20_RelocateLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_20_RelocateLinkedList.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_01_PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_01_PreInPosTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_02_PrintEdgeNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_02_PrintEdgeNodes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_03_PrintBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_03_PrintBinaryTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_04_SerializeAndReconstructTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_04_SerializeAndReconstructTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_05_MorrisTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_05_MorrisTraversal.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_06_LongestPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_06_LongestPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_07_BiggestSubBSTInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_07_BiggestSubBSTInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_08_BiggestBSTTopologyInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_08_BiggestBSTTopologyInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_09_PrintBinaryTreeByLevelAndZigZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_09_PrintBinaryTreeByLevelAndZigZag.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_10_RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_10_RecoverBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_11_T1ContainsT2Topology.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_11_T1ContainsT2Topology.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_12_T1SubtreeEqualsT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_12_T1SubtreeEqualsT2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_13_IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_13_IsBalancedTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_14_PosArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_14_PosArrayToBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_15_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_15_IsBSTAndCBT.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_16_SortedArrayToBalancedBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_16_SortedArrayToBalancedBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_17_DescendantNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_17_DescendantNode.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_18_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_18_LowestCommonAncestor.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_19_TarjanAndDisjointSetsForLCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_19_TarjanAndDisjointSetsForLCA.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_20_MaxDistanceInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_20_MaxDistanceInTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_21_PreInPosArrayToTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_21_PreInPosArrayToTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_22_PreAndInArrayToPosArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_22_PreAndInArrayToPosArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_23_UniqueBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_23_UniqueBST.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_24_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_24_CompleteTreeNodeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_01_FibonacciProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_01_FibonacciProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_02_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_02_MinPathSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_03_CoinsMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_03_CoinsMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_04_CoinsWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_04_CoinsWay.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_05_LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_05_LIS.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_06_HanoiProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_06_HanoiProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_07_LCSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_07_LCSubsequence.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_08_LCSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_08_LCSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_09_EditCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_09_EditCost.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_10_StringCross.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_10_StringCross.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_11_DungeonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_11_DungeonGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_12_NumberToLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_12_NumberToLetter.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_13_ExpressionNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_13_ExpressionNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_14_CardsInLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_14_CardsInLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_15_JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_15_JumpGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_16_LongestConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_16_LongestConsecutive.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_01_IsDeformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_01_IsDeformation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_02_AllNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_02_AllNumbersSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_03_RemoveKZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_03_RemoveKZeros.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_04_IsRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_04_IsRotation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_05_ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_05_ConvertStringToInteger.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_06_ReplaceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_06_ReplaceString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_07_ConvertStringToCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_07_ConvertStringToCount.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_08_IsAllUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_08_IsAllUnique.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_09_FindStringInContainsNullArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_09_FindStringInContainsNullArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_10_ModifyAndReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_10_ModifyAndReplace.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_11_RotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_11_RotateString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_12_MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_12_MinDistance.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_13_PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_13_PalindromeString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_15_ExpressionCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_15_ExpressionCompute.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_16_ZeroLeftOneStringNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_16_ZeroLeftOneStringNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_17_LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_17_LowestLexicography.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_18_LongestNoRepeatSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_18_LongestNoRepeatSubstring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_19_FindNewTypeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_19_FindNewTypeChar.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_20_MinWindowLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_20_MinWindowLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_21_PalindromeMinCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_21_PalindromeMinCut.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_22_RegularExpressionMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_22_RegularExpressionMatch.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_23_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_23_TrieTree.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_01_SwapWithoutTmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_01_SwapWithoutTmp.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_02_GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_02_GetMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_03_AddMinusMultiDivideByBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_03_AddMinusMultiDivideByBit.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_04_NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_04_NumberOf1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_05_EvenTimesOddTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_05_EvenTimesOddTimes.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_06_KTimesOneTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_06_KTimesOneTime.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_02_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_02_RotateMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_03_ZigZagPrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_03_ZigZagPrintMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_04_FindMinKNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_04_FindMinKNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_05_MinLengthForSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_05_MinLengthForSort.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_06_FindKMajority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_06_FindKMajority.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_07_FindNumInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_07_FindNumInSortedMatrix.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_08_LongestIntegratedLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_08_LongestIntegratedLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_09_PrintUniquePairAndTriad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_09_PrintUniquePairAndTriad.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_10_LongestSumSubArrayLengthInPositiveArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_10_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_11_LongestSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_11_LongestSumSubArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_12_LongestLessSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_12_LongestLessSumSubArrayLength.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_13_SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_13_SmallSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_14_SortNaturalNumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_14_SortNaturalNumberArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_15_EvenInEvenOddInOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_15_EvenInEvenOddInOdd.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_16_SubArrayMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_16_SubArrayMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_17_SubMatrixMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_17_SubMatrixMaxSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_18_FindOneLessValueIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_18_FindOneLessValueIndex.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_19_SubArrayMaxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_19_SubArrayMaxProduct.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_20_PrintMaxTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_20_PrintMaxTopK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_21_MaxOneBorderSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_21_MaxOneBorderSize.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_22_MultiplyExceptOwn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_22_MultiplyExceptOwn.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_23_PartitionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_23_PartitionArray.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_24_MinPathValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_24_MinPathValue.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_25_SmallestMissNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_25_SmallestMissNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_26_MaxGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_26_MaxGap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_01_Rand5ToRand7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_01_Rand5ToRand7.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_02_GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_02_GCD.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_03_FactorialProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_03_FactorialProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_04_PointInRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_04_PointInRectangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_05_PointInTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_05_PointInTriangle.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_06_PaperFolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_06_PaperFolding.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_07_ReservoirSampling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_07_ReservoirSampling.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_08_SetAllHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_08_SetAllHashMap.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_09_MaxABSBetweenLeftAndRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_09_MaxABSBetweenLeftAndRight.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_10_LeastRecentlyUsedCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_10_LeastRecentlyUsedCache.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_11_RandomPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_11_RandomPool.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_12_ProbabilityXPowerK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_12_ProbabilityXPowerK.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_13_PathsToNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_13_PathsToNums.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_14_SmallestUnFormedSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_14_SmallestUnFormedSum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_15_NumberAndString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_15_NumberAndString.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_16_OneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_16_OneNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_17_PrintRandomM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_17_PrintRandomM.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_18_PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_18_PalindromeNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_19_SortedRatateArrayFindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_19_SortedRatateArrayFindMin.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_20_SortedRatateArrayFindNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_20_SortedRatateArrayFindNum.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_21_ChineseExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_21_ChineseExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_21_EnglishExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_21_EnglishExpression.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_22_CandyProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_22_CandyProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_23_ReceiveAndPrintOrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_23_ReceiveAndPrintOrderLine.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatation.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatationForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatationForTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_25_MadianQuick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_25_MadianQuick.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_26_FindUpMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_26_FindUpMedian.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_27_FindKthMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_27_FindKthMinNumber.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_28_TopKSumCrossTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_28_TopKSumCrossTwoArrays.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_29_TopKTimes1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_29_TopKTimes1.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_29_TopKTimes2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_29_TopKTimes2.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_30_ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_30_ManacherAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_31_KMPAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_31_KMPAlgorithm.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_32_ThrowChessPiecesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_32_ThrowChessPiecesProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_33_ArtistProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_33_ArtistProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_34_PostOfficeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_34_PostOfficeProblem.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkation_5/HelloApp.idl" beforeDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -250,17 +207,32 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="QuickSortOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java">
+      <file leaf-file-name="Code_01_GetMax.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="1602">
-              <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
+            <state relative-caret-position="90">
+              <caret line="7" selection-start-line="7" selection-end-line="7" />
+              <folding>
+                <element signature="e#90#91#0" expanded="true" />
+                <element signature="e#109#110#0" expanded="true" />
+                <element signature="e#143#144#0" expanded="true" />
+                <element signature="e#176#177#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSotrOne.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/HeapSotrOne.java">
+      <file leaf-file-name="Problem_07_SlidingWindowMaxArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="144">
+              <caret line="8" selection-start-line="8" selection-end-line="9" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_07_SlidingWindowMaxArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -268,20 +240,65 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HeapSort.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java">
+      <file leaf-file-name="Problem_07_AllLessNumSubArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="18">
-              <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+            <state relative-caret-position="180">
+              <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSort.java">
+      <file leaf-file-name="Problem_08_MaxTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="162">
-              <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
+            <state relative-caret-position="72">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_09_MaximalRectangle.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_05_StackSortStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="126">
+              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_10_AllLessNumSubArray.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Problem_01_GetMinStack.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_00_BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_00_BubbleSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
@@ -324,14 +341,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/Factory.java" />
-        <option value="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/IFactory.java" />
-        <option value="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/MacCpu.java" />
-        <option value="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/MacFactory.java" />
-        <option value="$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/MacRam.java" />
-        <option value="$PROJECT_DIR$/src/www/jisuanke/Code_19_Toys.java" />
-        <option value="$PROJECT_DIR$/src/www/jisuanke/Code_05_sqrt.java" />
-        <option value="$PROJECT_DIR$/src/www/wangchong/study/ArryayListAddAll.java" />
         <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_01_SpecialMatrix.java" />
         <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_02_JiMu.java" />
         <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_03_CollectionAAddB.java" />
@@ -375,6 +384,14 @@
         <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/sample.java" />
         <option value="$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java" />
         <option value="$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/sample/HelloWorldServer.java" />
+        <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_12_NMinAdd.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/Program/HelloWorldClient.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/HelloWorldClient.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/test2/CounterImpl.java" />
+        <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java" />
+        <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java" />
+        <option value="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" />
       </list>
     </option>
   </component>
@@ -393,11 +410,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="7">
-    <option name="x" value="365" />
-    <option name="y" value="15" />
-    <option name="width" value="1140" />
-    <option name="height" value="1050" />
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="370" />
+    <option name="y" value="120" />
+    <option name="width" value="935" />
+    <option name="height" value="875" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -407,7 +424,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="AndroidView" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -447,7 +463,39 @@
               <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="wangchong" type="462c0819:PsiDirectoryNode" />
+              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="advance" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="class_06" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
@@ -455,12 +503,6 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="wangchong" type="462c0819:PsiDirectoryNode" />
-              <item name="java" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="Text" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
@@ -470,6 +512,7 @@
           <select />
         </subPane>
       </pane>
+      <pane id="AndroidView" />
       <pane id="Scope" />
     </panes>
   </component>
@@ -488,11 +531,13 @@
   </component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program\Java\IDEA\Arithmetic\out\production\Arithmetic\www\homework\embarkation_5" />
       <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\embarkationfournext\two" />
       <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\ITBlackHorse" />
       <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\ChapterThree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
+      <recent name="www.niuke.advance.class_02" />
       <recent name="www.homework.embarkationfournext.two" />
       <recent name="www.wangchong.Study" />
       <recent name="www.homework.ChapterThree" />
@@ -513,18 +558,7 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.QuickSortOne">
-    <configuration name="Code_03_Islands" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.niuke.class_05.Code_03_Islands" />
-      <module name="Arithmetic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="www.niuke.class_05.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
+  <component name="RunManager" selected="Application.Problem_07_SlidingWindowMaxArray">
     <configuration name="Code_F" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
       <option name="MAIN_CLASS_NAME" value="www.acm.Code_F" />
       <module name="Arithmetic" />
@@ -554,6 +588,17 @@
       <extension name="coverage">
         <pattern>
           <option name="PATTERN" value="www.homework.chapter_4.kfc.mykfc.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Problem_07_SlidingWindowMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_1_stackandqueue.Problem_07_SlidingWindowMaxArray" />
+      <module name="Arithmetic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="chapter_1_stackandqueue.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -599,6 +644,16 @@
       </option>
       <patterns />
     </configuration>
+    <configuration default="true" type="JetRunConfigurationType" factoryName="Kotlin">
+      <module name="Text" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="WORKING_DIRECTORY" />
+    </configuration>
     <configuration default="true" type="TestNG" factoryName="TestNG">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
       <option name="ALTERNATIVE_JRE_PATH" />
@@ -624,18 +679,18 @@
     <list>
       <item itemvalue="Application.Main" />
       <item itemvalue="Application.Code_F" />
-      <item itemvalue="Application.Code_03_Islands" />
       <item itemvalue="Application.Code_K" />
       <item itemvalue="Application.QuickSortOne" />
       <item itemvalue="Application.QuickSort" />
+      <item itemvalue="Application.Problem_07_SlidingWindowMaxArray" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_07_SlidingWindowMaxArray" />
         <item itemvalue="Application.QuickSortOne" />
         <item itemvalue="Application.QuickSort" />
         <item itemvalue="Application.Code_K" />
         <item itemvalue="Application.Code_F" />
-        <item itemvalue="Application.Code_03_Islands" />
       </list>
     </recent_temporary>
   </component>
@@ -760,11 +815,19 @@
       <workItem from="1557654044768" duration="365000" />
       <workItem from="1557706805095" duration="4370000" />
       <workItem from="1557735535096" duration="1062000" />
+      <workItem from="1557800242548" duration="2488000" />
+      <workItem from="1557902870611" duration="682000" />
+      <workItem from="1557989804462" duration="3136000" />
+      <workItem from="1558017073782" duration="1554000" />
+      <workItem from="1558083961257" duration="3876000" />
+      <workItem from="1558104576491" duration="574000" />
+      <workItem from="1558179583477" duration="6723000" />
+      <workItem from="1558248746854" duration="26000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="658824000" />
+    <option name="totallyTimeSpent" value="677883000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -776,8 +839,7 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
-    <editor active="true" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
@@ -792,7 +854,7 @@
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.49579832" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.18627451" visible="true" weight="0.18942437" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18627451" visible="true" weight="0.29250336" />
       <window_info anchor="right" id="Database" order="6" weight="0.32931727" />
       <window_info id="Structure" order="1" sideWeight="0.8137255" side_tool="true" weight="0.229585" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
@@ -889,278 +951,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/Midea.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/MideaFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Robot.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="6" selection-start-line="9" selection-start-column="6" selection-end-line="9" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Man.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="6" selection-start-line="10" selection-start-column="6" selection-end-line="10" selection-end-column="6" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Person.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="10" selection-start-line="10" selection-start-column="10" selection-end-line="10" selection-end-column="10" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Woman.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="33">
-          <caret line="11" column="7" selection-start-line="11" selection-start-column="7" selection-end-line="11" selection-end-column="7" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/NewPerson.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="18" column="13" lean-forward="true" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/Haier.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/two/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="213">
-          <caret line="17" column="37" lean-forward="true" selection-start-line="16" selection-start-column="8" selection-end-line="20" selection-end-column="66" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/one/Nvwa.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="19" lean-forward="true" selection-start-line="9" selection-start-column="19" selection-end-line="9" selection-end-column="19" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Collection.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="117">
-          <caret line="188" column="9" selection-start-line="188" selection-start-column="9" selection-end-line="188" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkationfournext/reflect/ReflectComputerProduct.java" />
-    <entry file="jar://C:/Program Files/Java/jdk1.8.0_131/src.zip!/java/util/Iterator.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="168">
-          <caret line="53" column="17" selection-start-line="53" selection-start-column="17" selection-end-line="53" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/Client.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="344">
-          <caret line="27" selection-start-line="27" selection-end-line="27" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/CPU.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/Factory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="12" selection-start-line="12" selection-end-line="12" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/IFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="17" selection-start-line="9" selection-start-column="17" selection-end-line="9" selection-end-column="17" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/MacCpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/MacRam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/PcCpu.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/PcRam.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/RAM.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="9" selection-start-line="10" selection-start-column="9" selection-end-line="10" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/PcFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/www.homework.embarkationfournext.reflect">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>www.homework.embarkationfournext.reflect</OriginalElement>
-          <nodes>
-            <node x="" y="">www.homework.embarkationfournext.reflect.MacFactory</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.Factory</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.PcRam</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.CPU</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.Client</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.MacRam</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.PcCpu</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.PcFactory</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.IFactory</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.RAM</node>
-            <node x="" y="">www.homework.embarkationfournext.reflect.MacCpu</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.7082152974504249" x="305.0" y="373.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/www.homework.chapterfour.kfc.realkfc">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>www.homework.chapterfour.kfc.realkfc</OriginalElement>
-          <nodes>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.CrispyChickenHamburg</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaseChicken</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaseFood</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.SpicyDuckRollPopularStarMealBase</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.IFood</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaseBeverage</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.PiquancyChickenWings</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.WingBucketTenderFiveSides</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.PaNiNiHamburg</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.RedBeanPieSweetmeats</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.ReflectFoodFactory</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.CoffeeBeverage</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.FoodFactory</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaiShiKolaBeverage</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.IKfcFactory</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.KfcFoodFactory</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaseSetMeal</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.HotPotatoChipsChickenWings</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaseHamburg</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.ChocolateWaffleSweetmeats</node>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.BaseSweetmeats</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="0.4101924447612262" x="1240.0" y="702.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="uml://JAVA/www.homework.chapterfour.kfc.realkfc.ReflectFoodFactory">
-      <provider selected="true" editor-type-id="UmlEditorProvider">
-        <state>
-          <ID>JAVA</ID>
-          <OriginalElement>www.homework.chapterfour.kfc.realkfc.ReflectFoodFactory</OriginalElement>
-          <nodes>
-            <node x="" y="">www.homework.chapterfour.kfc.realkfc.ReflectFoodFactory</node>
-          </nodes>
-          <notes />
-          <edges />
-          <settings layout="Hierarchic Group" zoom="1.0" x="206.0" y="75.0" />
-          <SelectedNodes />
-          <Categories>
-            <Category>Fields</Category>
-            <Category>Constructors</Category>
-            <Category>Methods</Category>
-          </Categories>
-          <SCOPE>All</SCOPE>
-          <VISIBILITY>private</VISIBILITY>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/chapter_4/test/Text.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/chapter5/Two.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="414">
-          <caret line="23" column="29" selection-start-line="23" selection-start-column="29" selection-end-line="23" selection-end-column="29" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/reflect/MacFactory.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
-          <caret line="13" column="20" selection-start-line="13" selection-start-column="20" selection-end-line="13" selection-end-column="20" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/ComputerProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="1674">
@@ -1200,9 +990,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="342">
           <caret line="20" column="37" selection-start-line="20" selection-start-column="37" selection-end-line="20" selection-end-column="37" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1210,9 +997,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="882">
           <caret line="51" column="31" selection-start-line="51" selection-start-column="31" selection-end-line="51" selection-end-column="31" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1239,20 +1023,11 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="256">
           <caret line="32" column="4" selection-start-line="32" selection-start-column="4" selection-end-line="32" selection-end-column="4" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/sample.java" />
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/HelloApp.idl">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="2" lean-forward="true" selection-start-line="4" selection-start-column="2" selection-end-line="4" selection-end-column="2" />
-        </state>
-      </provider>
-    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/HelloApp.idl" />
     <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/RadixSort.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -1271,9 +1046,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="415">
           <caret line="30" selection-start-line="30" selection-end-line="30" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1298,17 +1070,193 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://F:/Tencent/Document/Tencent Files/1939765238/FileRecv/MobileFile/Study/BITE/Java/JavaSE/yuisama/笔记/多线程复习笔记.java">
+    <entry file="file://F:/Tencent/Document/Tencent Files/1939765238/FileRecv/MobileFile/Study/BITE/Java/JavaSE/yuisama/笔记/多线程复习笔记.java" />
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/sample/HelloWorld.java" />
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/sample/HelloWorldServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="324">
-          <caret line="18" column="10" lean-forward="true" selection-start-line="18" selection-start-column="10" selection-end-line="18" selection-end-column="10" />
+        <state relative-caret-position="648">
+          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java">
+    <entry file="file://$PROJECT_DIR$/Arithmetic.iml">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="18">
-          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
+        <state relative-caret-position="234">
+          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/HashMapDel.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="54">
+          <caret line="3" column="13" selection-start-line="3" selection-start-column="13" selection-end-line="3" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/HashMap2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="252">
+          <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/HelloWorldClient.java" />
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/HelloWorldServer.java" />
+    <entry file="file://$PROJECT_DIR$/src/www/jisuanke/ds/Code_12_NMinAdd.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="526">
+          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_02/Code_01_LeastRecentlyUsedCache.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Code_01_KMP.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="230">
+          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Code_03_KMP_T1SubtreeEqualsT2.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_02_HanoiProblem.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_03_LongestPathSum.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_05_IsBalancedTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_06_T1ContainsT2Topology.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_07_ExpressionCompute.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_08_MaxDistanceInTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="288">
+          <caret line="18" selection-start-line="18" selection-end-line="18" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Code_06_BFPRT.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-2250">
+          <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_00_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="90">
+          <caret line="7" selection-start-line="7" selection-end-line="7" />
+          <folding>
+            <element signature="e#90#91#0" expanded="true" />
+            <element signature="e#109#110#0" expanded="true" />
+            <element signature="e#143#144#0" expanded="true" />
+            <element signature="e#176#177#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/test2/CounterImpl.java" />
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" selection-start-line="8" selection-end-line="9" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
         </state>
       </provider>
     </entry>
