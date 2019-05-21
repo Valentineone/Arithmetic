@@ -5,175 +5,8 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="dbe55e7e-e1cd-47a1-bd25-c5b771375f4a" name="Default" comment="">
-      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/modules.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/Text/Text.iml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/embarkation_5/HelloApp.idl" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/java/HeapSort.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/java/HeapSort.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_02_TwoStacksImplementQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_02_TwoStacksImplementQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_03_ReverseStackUsingRecursive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_04_DogCatQueue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_04_DogCatQueue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_06_HanoiStack.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_06_HanoiStack.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_09_MaximalRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_10_AllLessNumSubArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_01_PrintCommonPart.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_01_PrintCommonPart.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_02_RemoveLastKthNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_02_RemoveLastKthNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_03_RemoveNodeByRatio.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_03_RemoveNodeByRatio.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_04_ReverseList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_04_ReverseList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_05_ReversePartList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_05_ReversePartList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_06_JosephusProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_06_JosephusProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_07_IsPalindromeList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_07_IsPalindromeList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_08_SmallerEqualBigger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_08_SmallerEqualBigger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_09_CopyListWithRandom.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_09_CopyListWithRandom.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_10_AddTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_10_AddTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_11_FindFirstIntersectNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_11_FindFirstIntersectNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_12_ConvertEveryKNodesInList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_12_ConvertEveryKNodesInList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_13_RemoveRepetition.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_13_RemoveRepetition.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_14_RemoveGivenValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_14_RemoveGivenValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_15_BSTtoDoubleLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_15_BSTtoDoubleLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_16_ListSelectionSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_16_ListSelectionSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_17_RemoveNodeWired.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_17_RemoveNodeWired.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_18_InsertNumToCircularList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_18_InsertNumToCircularList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_19_MergeTwoLinkedLists.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_19_MergeTwoLinkedLists.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_2_listproblem/Problem_20_RelocateLinkedList.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_2_listproblem/Problem_20_RelocateLinkedList.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_01_PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_01_PreInPosTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_02_PrintEdgeNodes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_02_PrintEdgeNodes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_03_PrintBinaryTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_03_PrintBinaryTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_04_SerializeAndReconstructTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_04_SerializeAndReconstructTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_05_MorrisTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_05_MorrisTraversal.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_06_LongestPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_06_LongestPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_07_BiggestSubBSTInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_07_BiggestSubBSTInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_08_BiggestBSTTopologyInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_08_BiggestBSTTopologyInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_09_PrintBinaryTreeByLevelAndZigZag.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_09_PrintBinaryTreeByLevelAndZigZag.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_10_RecoverBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_10_RecoverBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_11_T1ContainsT2Topology.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_11_T1ContainsT2Topology.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_12_T1SubtreeEqualsT2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_12_T1SubtreeEqualsT2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_13_IsBalancedTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_13_IsBalancedTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_14_PosArrayToBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_14_PosArrayToBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_15_IsBSTAndCBT.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_15_IsBSTAndCBT.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_16_SortedArrayToBalancedBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_16_SortedArrayToBalancedBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_17_DescendantNode.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_17_DescendantNode.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_18_LowestCommonAncestor.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_18_LowestCommonAncestor.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_19_TarjanAndDisjointSetsForLCA.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_19_TarjanAndDisjointSetsForLCA.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_20_MaxDistanceInTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_20_MaxDistanceInTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_21_PreInPosArrayToTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_21_PreInPosArrayToTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_22_PreAndInArrayToPosArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_22_PreAndInArrayToPosArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_23_UniqueBST.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_23_UniqueBST.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_3_binarytreeproblem/Problem_24_CompleteTreeNodeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_3_binarytreeproblem/Problem_24_CompleteTreeNodeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_01_FibonacciProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_01_FibonacciProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_02_MinPathSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_02_MinPathSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_03_CoinsMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_03_CoinsMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_04_CoinsWay.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_04_CoinsWay.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_05_LIS.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_05_LIS.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_06_HanoiProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_06_HanoiProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_07_LCSubsequence.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_07_LCSubsequence.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_08_LCSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_08_LCSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_09_EditCost.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_09_EditCost.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_10_StringCross.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_10_StringCross.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_11_DungeonGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_11_DungeonGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_12_NumberToLetter.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_12_NumberToLetter.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_13_ExpressionNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_13_ExpressionNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_14_CardsInLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_14_CardsInLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_15_JumpGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_15_JumpGame.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_16_LongestConsecutive.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_16_LongestConsecutive.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_01_IsDeformation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_01_IsDeformation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_02_AllNumbersSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_02_AllNumbersSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_03_RemoveKZeros.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_03_RemoveKZeros.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_04_IsRotation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_04_IsRotation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_05_ConvertStringToInteger.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_05_ConvertStringToInteger.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_06_ReplaceString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_06_ReplaceString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_07_ConvertStringToCount.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_07_ConvertStringToCount.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_08_IsAllUnique.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_08_IsAllUnique.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_09_FindStringInContainsNullArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_09_FindStringInContainsNullArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_10_ModifyAndReplace.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_10_ModifyAndReplace.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_11_RotateString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_11_RotateString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_12_MinDistance.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_12_MinDistance.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_13_PalindromeString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_13_PalindromeString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_14_ParenthesesProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_15_ExpressionCompute.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_15_ExpressionCompute.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_16_ZeroLeftOneStringNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_16_ZeroLeftOneStringNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_17_LowestLexicography.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_17_LowestLexicography.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_18_LongestNoRepeatSubstring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_18_LongestNoRepeatSubstring.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_19_FindNewTypeChar.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_19_FindNewTypeChar.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_20_MinWindowLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_20_MinWindowLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_21_PalindromeMinCut.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_21_PalindromeMinCut.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_22_RegularExpressionMatch.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_22_RegularExpressionMatch.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_5_stringproblem/Problem_23_TrieTree.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_5_stringproblem/Problem_23_TrieTree.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_01_SwapWithoutTmp.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_01_SwapWithoutTmp.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_02_GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_02_GetMax.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_03_AddMinusMultiDivideByBit.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_03_AddMinusMultiDivideByBit.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_04_NumberOf1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_04_NumberOf1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_05_EvenTimesOddTimes.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_05_EvenTimesOddTimes.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_7_bitoperation/Problem_06_KTimesOneTime.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_7_bitoperation/Problem_06_KTimesOneTime.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_01_PrintMatrixSpiralOrder.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_02_RotateMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_02_RotateMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_03_ZigZagPrintMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_03_ZigZagPrintMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_04_FindMinKNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_04_FindMinKNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_05_MinLengthForSort.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_05_MinLengthForSort.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_06_FindKMajority.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_06_FindKMajority.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_07_FindNumInSortedMatrix.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_07_FindNumInSortedMatrix.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_08_LongestIntegratedLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_08_LongestIntegratedLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_09_PrintUniquePairAndTriad.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_09_PrintUniquePairAndTriad.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_10_LongestSumSubArrayLengthInPositiveArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_10_LongestSumSubArrayLengthInPositiveArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_11_LongestSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_11_LongestSumSubArrayLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_12_LongestLessSumSubArrayLength.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_12_LongestLessSumSubArrayLength.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_13_SmallSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_13_SmallSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_14_SortNaturalNumberArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_14_SortNaturalNumberArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_15_EvenInEvenOddInOdd.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_15_EvenInEvenOddInOdd.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_16_SubArrayMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_16_SubArrayMaxSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_17_SubMatrixMaxSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_17_SubMatrixMaxSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_18_FindOneLessValueIndex.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_18_FindOneLessValueIndex.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_19_SubArrayMaxProduct.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_19_SubArrayMaxProduct.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_20_PrintMaxTopK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_20_PrintMaxTopK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_21_MaxOneBorderSize.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_21_MaxOneBorderSize.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_22_MultiplyExceptOwn.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_22_MultiplyExceptOwn.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_23_PartitionArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_23_PartitionArray.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_24_MinPathValue.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_24_MinPathValue.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_25_SmallestMissNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_25_SmallestMissNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_8_arrayandmatrix/Problem_26_MaxGap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_8_arrayandmatrix/Problem_26_MaxGap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_01_Rand5ToRand7.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_01_Rand5ToRand7.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_02_GCD.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_02_GCD.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_03_FactorialProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_03_FactorialProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_04_PointInRectangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_04_PointInRectangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_05_PointInTriangle.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_05_PointInTriangle.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_06_PaperFolding.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_06_PaperFolding.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_07_ReservoirSampling.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_07_ReservoirSampling.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_08_SetAllHashMap.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_08_SetAllHashMap.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_09_MaxABSBetweenLeftAndRight.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_09_MaxABSBetweenLeftAndRight.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_10_LeastRecentlyUsedCache.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_10_LeastRecentlyUsedCache.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_11_RandomPool.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_11_RandomPool.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_12_ProbabilityXPowerK.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_12_ProbabilityXPowerK.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_13_PathsToNums.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_13_PathsToNums.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_14_SmallestUnFormedSum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_14_SmallestUnFormedSum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_15_NumberAndString.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_15_NumberAndString.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_16_OneNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_16_OneNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_17_PrintRandomM.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_17_PrintRandomM.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_18_PalindromeNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_18_PalindromeNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_19_SortedRatateArrayFindMin.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_19_SortedRatateArrayFindMin.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_20_SortedRatateArrayFindNum.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_20_SortedRatateArrayFindNum.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_21_ChineseExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_21_ChineseExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_21_EnglishExpression.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_21_EnglishExpression.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_22_CandyProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_22_CandyProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_23_ReceiveAndPrintOrderLine.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_23_ReceiveAndPrintOrderLine.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatation.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatation.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatationForTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_24_HeapWithoutDilatationForTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_25_MadianQuick.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_25_MadianQuick.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_26_FindUpMedian.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_26_FindUpMedian.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_27_FindKthMinNumber.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_27_FindKthMinNumber.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_28_TopKSumCrossTwoArrays.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_28_TopKSumCrossTwoArrays.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_29_TopKTimes1.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_29_TopKTimes1.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_29_TopKTimes2.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_29_TopKTimes2.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_30_ManacherAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_30_ManacherAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_31_KMPAlgorithm.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_31_KMPAlgorithm.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_32_ThrowChessPiecesProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_32_ThrowChessPiecesProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_33_ArtistProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_33_ArtistProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/bestresult/chapter_9_others/Problem_34_PostOfficeProblem.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_9_others/Problem_34_PostOfficeProblem.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/embarkation_5/HelloApp.idl" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
@@ -207,21 +40,6 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="Code_01_GetMax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-              <folding>
-                <element signature="e#90#91#0" expanded="true" />
-                <element signature="e#109#110#0" expanded="true" />
-                <element signature="e#143#144#0" expanded="true" />
-                <element signature="e#176#177#0" expanded="true" />
-              </folding>
-            </state>
-          </provider>
-        </entry>
-      </file>
       <file leaf-file-name="Problem_07_SlidingWindowMaxArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_07_SlidingWindowMaxArray.java">
           <provider selected="true" editor-type-id="text-editor">
@@ -234,8 +52,26 @@
       <file leaf-file-name="Problem_07_SlidingWindowMaxArray.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+            <state relative-caret-position="522">
+              <caret line="44" selection-start-line="5" selection-end-line="44" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSortOne.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="655">
+              <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="QuickSort.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSort.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="234">
+              <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
             </state>
           </provider>
         </entry>
@@ -267,11 +103,15 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="Problem_05_StackSortStack.java" pinned="false" current-in-tab="true">
+      <file leaf-file-name="Problem_05_StackSortStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="126">
-              <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+              <folding>
+                <element signature="e#216#225#0" expanded="true" />
+                <element signature="e#529#538#0" expanded="true" />
+              </folding>
             </state>
           </provider>
         </entry>
@@ -287,15 +127,6 @@
       </file>
       <file leaf-file-name="Problem_01_GetMinStack.java" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_01_GetMinStack.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="72">
-              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code_00_BubbleSort.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_00_BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -389,9 +220,9 @@
         <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/Program/HelloWorldClient.java" />
         <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/HelloWorldClient.java" />
         <option value="$PROJECT_DIR$/src/www/homework/embarkation_5/test2/CounterImpl.java" />
-        <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java" />
         <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java" />
         <option value="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" />
+        <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java" />
       </list>
     </option>
   </component>
@@ -411,9 +242,9 @@
     <packageJsonPaths />
   </component>
   <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="370" />
-    <option name="y" value="120" />
-    <option name="width" value="935" />
+    <option name="x" value="837" />
+    <option name="y" value="30" />
+    <option name="width" value="1088" />
     <option name="height" value="875" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
@@ -424,22 +255,6 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
-      <pane id="PackagesPane">
-        <subPane>
-          <expand>
-            <path>
-              <item name="Arithmetic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Arithmetic" type="616d4139:PackageViewModuleNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="58d84e3e:PackageViewProjectNode" />
-              <item name="Arithmetic" type="616d4139:PackageViewModuleNode" />
-              <item name="com" type="1f31426a:PackageElementNode" />
-            </path>
-          </expand>
-          <select />
-        </subPane>
-      </pane>
       <pane id="ProjectPane">
         <subPane>
           <expand>
@@ -463,39 +278,7 @@
               <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="algorithms" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
-              <item name="advance" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-            </path>
-            <path>
-              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
-              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
-              <item name="src" type="462c0819:PsiDirectoryNode" />
-              <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="niuke" type="462c0819:PsiDirectoryNode" />
-              <item name="basic" type="462c0819:PsiDirectoryNode" />
-              <item name="class_06" type="462c0819:PsiDirectoryNode" />
+              <item name="wangchong" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
@@ -503,6 +286,7 @@
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
               <item name="wangchong" type="462c0819:PsiDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
@@ -512,8 +296,24 @@
           <select />
         </subPane>
       </pane>
-      <pane id="AndroidView" />
+      <pane id="PackagesPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="Arithmetic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Arithmetic" type="616d4139:PackageViewModuleNode" />
+            </path>
+            <path>
+              <item name="Arithmetic" type="58d84e3e:PackageViewProjectNode" />
+              <item name="Arithmetic" type="616d4139:PackageViewModuleNode" />
+              <item name="com" type="1f31426a:PackageElementNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
       <pane id="Scope" />
+      <pane id="AndroidView" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -521,7 +321,7 @@
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
     <property name="com.intellij.database.dataSource.DataSourceTemplate" value="MySQL" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/../Multithreading" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$/../../MySQL" />
     <property name="nodejs_interpreter_path.stuck_in_default_project" value="undefined stuck path" />
     <property name="nodejs_npm_path_reset_for_default_project" value="true" />
     <property name="project.structure.last.edited" value="Modules" />
@@ -823,11 +623,13 @@
       <workItem from="1558104576491" duration="574000" />
       <workItem from="1558179583477" duration="6723000" />
       <workItem from="1558248746854" duration="26000" />
+      <workItem from="1558351472235" duration="2967000" />
+      <workItem from="1558389753015" duration="733000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="677883000" />
+    <option name="totallyTimeSpent" value="681583000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -840,6 +642,7 @@
   </component>
   <component name="ToolWindowManager">
     <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
@@ -849,27 +652,27 @@
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.10575636" side_tool="true" weight="0.31932774" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.10240964" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89424366" weight="0.17226891" />
+      <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.49579832" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18627451" visible="true" weight="0.29250336" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18627451" visible="true" weight="0.057563588" />
       <window_info anchor="right" id="Database" order="6" weight="0.32931727" />
       <window_info id="Structure" order="1" sideWeight="0.8137255" side_tool="true" weight="0.229585" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
       <window_info anchor="right" id="Theme Preview" order="5" />
-      <window_info id="Favorites" order="5" sideWeight="0.9160156" side_tool="true" weight="0.24029452" />
       <window_info anchor="bottom" id="Debug" order="3" sideWeight="0.49933067" weight="0.56162465" />
+      <window_info id="Favorites" order="5" sideWeight="0.9160156" side_tool="true" weight="0.24029452" />
+      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.5462185" />
       <window_info anchor="right" content_ui="combo" id="Hierarchy" order="2" weight="0.25" />
       <window_info anchor="bottom" id="Inspection" order="5" weight="0.4" />
-      <window_info anchor="bottom" id="Inspection Results" order="11" weight="0.5462185" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30392158" />
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
       <window_info anchor="bottom" id="Find" order="1" weight="0.67086834" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.30392158" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -1049,20 +852,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="162">
-          <caret line="9" column="9" selection-start-line="9" selection-start-column="9" selection-end-line="9" selection-end-column="9" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="1602">
-          <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/HeapSotrOne.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1098,9 +887,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="252">
           <caret line="15" column="19" selection-start-line="15" selection-start-column="19" selection-end-line="15" selection-end-column="19" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
         </state>
       </provider>
     </entry>
@@ -1211,20 +997,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="180">
-          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_08_MaxTree.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="72">
@@ -1256,7 +1028,39 @@
     <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="126">
-          <caret line="7" column="51" lean-forward="true" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <caret line="7" column="51" selection-start-line="7" selection-start-column="51" selection-end-line="7" selection-end-column="51" />
+          <folding>
+            <element signature="e#216#225#0" expanded="true" />
+            <element signature="e#529#538#0" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="522">
+          <caret line="44" selection-start-line="5" selection-end-line="44" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSortOne.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="655">
+          <caret line="91" column="41" selection-start-line="91" selection-start-column="41" selection-end-line="91" selection-end-column="41" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/QuickSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="234">
+          <caret line="25" column="29" lean-forward="true" selection-start-line="25" selection-start-column="29" selection-end-line="25" selection-end-column="29" />
         </state>
       </provider>
     </entry>
