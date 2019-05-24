@@ -1,4 +1,4 @@
-package advanced_class_01;
+package www.niuke.advance.advanced_class_01;
 
 public class Code_01_GetMax {
 

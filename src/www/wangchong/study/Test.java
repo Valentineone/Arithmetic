@@ -1,5 +1,8 @@
 package www.wangchong.study;
 
+
+import java.util.Stack;
+
 /**
  * @author wangchong
  * @date 2019/4/20 18:00
@@ -8,7 +11,25 @@ package www.wangchong.study;
  * @describe
  */
 public class Test {
+    public static boolean isPalindrome(String str) {
+        Stack<Character> stack = new Stack<>();
+        for (int i = 0; i < str.length(); i++) {
+            stack.push(str.charAt(i));
+        }
+        for (int i = 0; i < str.length(); i++) {
+            if (stack.pop() != str.charAt(i)) {
+                return false;
+            }
+        }
+        return true;
+    }
     public static void main(String[] args) {
-        System.out.println("扼腕");
+        for (int i = 0; i < 257; i++) {
+            int pow = (int)Math.pow(i,2);
+            String str = String.valueOf(pow);
+            if (isPalindrome(str) && pow > 9) {
+                System.out.println(i);
+            }
+        }
     }
 }
