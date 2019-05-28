@@ -31,5 +31,7 @@ public class Test {
                 System.out.println(i);
             }
         }
+        System.out.println(Math.round(11.5));
+        System.out.println(Math.round(-11.6));;
     }
 }

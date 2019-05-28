@@ -9,12 +9,15 @@
   <component name="ChangeListManager">
     <list default="true" id="dbe55e7e-e1cd-47a1-bd25-c5b771375f4a" name="Default" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/advanced_class_01/Code_01_GetMax.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/chapter_1_stackandqueue/Problem_05_StackSortStack.class" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/java/Chapter10/AddThreadTest.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/java/Chapter10/AddThreadTest.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapter_2/GcdPro.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/chapter_2/GcdPro.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/java/Chapter10/AddThreadTest$Add.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/homework/java/Chapter10/AddThreadTest.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/niuke/class_04/Code_01_PreInPosTraversal$Node.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/niuke/class_04/Code_01_PreInPosTraversal.class" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/study/Test.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Arithmetic/www/wangchong/study/Test.class" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/homework/chapter_2/GcdPro.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/chapter_2/GcdPro.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/homework/java/Chapter10/Accumulator.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_01_PreInPosTraversal.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_01_PreInPosTraversal.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/www/wangchong/study/Test.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/www/wangchong/study/Test.java" afterDir="false" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
@@ -49,11 +52,11 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="HashMap2.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/HashMap2.java">
+      <file leaf-file-name="Code_03_StackAndQueueConvert.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_03_StackAndQueueConvert.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="216">
-              <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
+            <state relative-caret-position="468">
+              <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
               <folding>
                 <element signature="imports" expanded="true" />
               </folding>
@@ -61,17 +64,53 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="HashMapDel.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/HashMapDel.java">
+      <file leaf-file-name="Code_01_PreInPosTraversal.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_01_PreInPosTraversal.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="180">
-              <caret line="10" column="13" selection-start-line="10" selection-start-column="13" selection-end-line="10" selection-end-column="13" />
+            <state relative-caret-position="144">
+              <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddThread.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThread.java">
+      <file leaf-file-name="Code_02_PrintBinaryTree.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_02_PrintBinaryTree.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="198">
+              <caret line="13" selection-start-line="13" selection-end-line="14" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_02_GetMinStack.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_02_GetMinStack.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="270">
+              <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="A.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/A.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="162">
+              <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_04_DogCatQueue.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_04_DogCatQueue.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="72">
+              <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+            </state>
+          </provider>
+        </entry>
+      </file>
+      <file leaf-file-name="Code_00_BubbleSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_00_BubbleSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
               <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
@@ -79,65 +118,29 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="AddThreadTest.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="306">
-              <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Code_01_GetMax.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="90">
-              <caret line="7" selection-start-line="7" selection-end-line="7" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="Test.java" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/Test.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="342">
-              <caret line="31" column="13" selection-end-line="35" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FileRead.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/FileRead.java">
+      <file leaf-file-name="Code_01_InsertionSort.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_01_InsertionSort.java">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="72">
-              <caret line="6" column="13" selection-start-line="6" selection-start-column="13" selection-end-line="6" selection-end-column="13" />
+              <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileReadEachLine.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/FileReadEachLine.java">
+      <file leaf-file-name="Test.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/Test.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="126">
-              <caret line="9" column="13" selection-start-line="9" selection-start-column="13" selection-end-line="9" selection-end-column="13" />
+            <state relative-caret-position="594">
+              <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="FileWrite.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/FileWrite.java">
+      <file leaf-file-name="Problem_17_NQueens.java" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="230">
-              <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="FormatDate.java" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/FormatDate.java">
-          <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="198">
-              <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
+            <state relative-caret-position="1296">
+              <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
             </state>
           </provider>
         </entry>
@@ -147,8 +150,8 @@
   <component name="FileTemplateManagerImpl">
     <option name="RECENT_TEMPLATES">
       <list>
-        <option value="Interface" />
         <option value="Class" />
+        <option value="Interface" />
       </list>
     </option>
   </component>
@@ -181,11 +184,6 @@
   <component name="IdeDocumentHistory">
     <option name="CHANGED_PATHS">
       <list>
-        <option value="$PROJECT_DIR$/src/www/wangchong/study/IgnoreUpperLowerCase.java" />
-        <option value="$PROJECT_DIR$/src/www/wangchong/study/String/IgnoreUpperLowerCase.java" />
-        <option value="$PROJECT_DIR$/src/www/wangchong/study/String/ToUpperAndTOLowerCase.java" />
-        <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_04_Vocabulary.java" />
-        <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_05_MaxTimeInt.java" />
         <option value="$PROJECT_DIR$/src/www/homework/chapterthree/Person.java" />
         <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_06_FruitCollection.java" />
         <option value="$PROJECT_DIR$/src/www/jisuanke/ds/Code_06_FruitTable.java" />
@@ -229,9 +227,14 @@
         <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java" />
         <option value="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_1_stackandqueue/Problem_05_StackSortStack.java" />
         <option value="$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_SlidingWindowMaxArray.java" />
-        <option value="$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java" />
         <option value="$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_01_GetMax.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/java/Chapter10/Accumulator.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/embarkation_6.java" />
+        <option value="$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_01_PreInPosTraversal.java" />
         <option value="$PROJECT_DIR$/src/www/wangchong/study/Test.java" />
+        <option value="$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java" />
+        <option value="$PROJECT_DIR$/src/www/homework/chapter_2/GcdPro.java" />
       </list>
     </option>
   </component>
@@ -250,11 +253,11 @@
   <component name="NodePackageJsonFileManager">
     <packageJsonPaths />
   </component>
-  <component name="ProjectFrameBounds" extendedState="6">
-    <option name="x" value="-9" />
-    <option name="y" value="53" />
-    <option name="width" value="950" />
-    <option name="height" value="840" />
+  <component name="ProjectFrameBounds" extendedState="7">
+    <option name="x" value="530" />
+    <option name="y" value="5" />
+    <option name="width" value="1038" />
+    <option name="height" value="780" />
   </component>
   <component name="ProjectLevelVcsManager" settingsEditedManually="true">
     <ConfirmationsSetting value="1" id="Add" />
@@ -264,6 +267,7 @@
       <foldersAlwaysOnTop value="true" />
     </navigator>
     <panes>
+      <pane id="Scope" />
       <pane id="PackagesPane">
         <subPane>
           <expand>
@@ -303,15 +307,24 @@
               <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="wangchong" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
               <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
               <item name="src" type="462c0819:PsiDirectoryNode" />
               <item name="www" type="462c0819:PsiDirectoryNode" />
-              <item name="wangchong" type="462c0819:PsiDirectoryNode" />
-              <item name="study" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
+              <item name="Arithmetic" type="462c0819:PsiDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="www" type="462c0819:PsiDirectoryNode" />
+              <item name="niuke" type="462c0819:PsiDirectoryNode" />
+              <item name="basic" type="462c0819:PsiDirectoryNode" />
+              <item name="class_03" type="462c0819:PsiDirectoryNode" />
             </path>
             <path>
               <item name="Arithmetic" type="b2602c69:ProjectViewProjectNode" />
@@ -322,7 +335,6 @@
         </subPane>
       </pane>
       <pane id="AndroidView" />
-      <pane id="Scope" />
     </panes>
   </component>
   <component name="PropertiesComponent">
@@ -336,11 +348,14 @@
     <property name="project.structure.last.edited" value="Modules" />
     <property name="project.structure.proportion" value="0.0" />
     <property name="project.structure.side.proportion" value="0.0" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="Errors" />
   </component>
   <component name="RecentsManager">
-    <key name="MoveFile.RECENT_KEYS">
-      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\Java\Chapter3" />
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="F:\Program\Java\IDEA\Arithmetic\out\production\Arithmetic\www\homework\embarkation_5" />
+      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\embarkationfournext\two" />
+      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\ITBlackHorse" />
+      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\ChapterThree" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="www.niuke.advance.class_02" />
@@ -348,11 +363,8 @@
       <recent name="www.wangchong.Study" />
       <recent name="www.homework.ChapterThree" />
     </key>
-    <key name="CopyFile.RECENT_KEYS">
-      <recent name="F:\Program\Java\IDEA\Arithmetic\out\production\Arithmetic\www\homework\embarkation_5" />
-      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\embarkationfournext\two" />
-      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\ITBlackHorse" />
-      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\ChapterThree" />
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="F:\Program\Java\IDEA\Arithmetic\src\www\homework\Java\Chapter3" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -367,14 +379,25 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Application.Test">
-    <configuration name="Code_K" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.acm.Code_K" />
+  <component name="RunManager" selected="Application.Problem_17_NQueens">
+    <configuration name="Accumulator" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.homework.java.Chapter10.Accumulator" />
       <module name="Arithmetic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="www.acm.*" />
+          <option name="PATTERN" value="www.homework.java.Chapter10.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+    </configuration>
+    <configuration name="Code_01_PreInPosTraversal" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.niuke.class_04.Code_01_PreInPosTraversal" />
+      <module name="Arithmetic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.niuke.class_04.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -390,35 +413,13 @@
         </pattern>
       </extension>
     </configuration>
-    <configuration name="Problem_07_SlidingWindowMaxArray" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="chapter_1_stackandqueue.Problem_07_SlidingWindowMaxArray" />
+    <configuration name="Problem_17_NQueens" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="chapter_4_recursionanddp.Problem_17_NQueens" />
       <module name="Arithmetic" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <extension name="coverage">
         <pattern>
-          <option name="PATTERN" value="chapter_1_stackandqueue.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="QuickSort" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.wangchong.java.QuickSort" />
-      <module name="Arithmetic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="www.wangchong.java.*" />
-          <option name="ENABLED" value="true" />
-        </pattern>
-      </extension>
-    </configuration>
-    <configuration name="QuickSortOne" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="www.wangchong.java.QuickSortOne" />
-      <module name="Arithmetic" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
-      <extension name="coverage">
-        <pattern>
-          <option name="PATTERN" value="www.wangchong.java.*" />
+          <option name="PATTERN" value="chapter_4_recursionanddp.*" />
           <option name="ENABLED" value="true" />
         </pattern>
       </extension>
@@ -436,6 +437,17 @@
     </configuration>
     <configuration default="true" type="Application" factoryName="Application">
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+    </configuration>
+    <configuration name="embarkation_6" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="www.homework.embarkation_6" />
+      <module name="Arithmetic" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="www.homework.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
     </configuration>
     <configuration default="true" type="JUnit" factoryName="JUnit">
       <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
@@ -487,19 +499,19 @@
     </configuration>
     <list>
       <item itemvalue="Application.Main" />
-      <item itemvalue="Application.Code_K" />
-      <item itemvalue="Application.QuickSortOne" />
-      <item itemvalue="Application.QuickSort" />
-      <item itemvalue="Application.Problem_07_SlidingWindowMaxArray" />
       <item itemvalue="Application.Test" />
+      <item itemvalue="Application.Accumulator" />
+      <item itemvalue="Application.embarkation_6" />
+      <item itemvalue="Application.Code_01_PreInPosTraversal" />
+      <item itemvalue="Application.Problem_17_NQueens" />
     </list>
     <recent_temporary>
       <list>
+        <item itemvalue="Application.Problem_17_NQueens" />
         <item itemvalue="Application.Test" />
-        <item itemvalue="Application.Problem_07_SlidingWindowMaxArray" />
-        <item itemvalue="Application.QuickSortOne" />
-        <item itemvalue="Application.QuickSort" />
-        <item itemvalue="Application.Code_K" />
+        <item itemvalue="Application.Code_01_PreInPosTraversal" />
+        <item itemvalue="Application.embarkation_6" />
+        <item itemvalue="Application.Accumulator" />
       </list>
     </recent_temporary>
   </component>
@@ -637,11 +649,18 @@
       <workItem from="1558525413607" duration="619000" />
       <workItem from="1558588305614" duration="3810000" />
       <workItem from="1558691058140" duration="4642000" />
+      <workItem from="1558744145055" duration="1519000" />
+      <workItem from="1558763765149" duration="1219000" />
+      <workItem from="1558915500061" duration="4913000" />
+      <workItem from="1558932081143" duration="1244000" />
+      <workItem from="1558946106082" duration="778000" />
+      <workItem from="1558946916696" duration="4273000" />
+      <workItem from="1559025203374" duration="1854000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="690654000" />
+    <option name="totallyTimeSpent" value="706454000" />
   </component>
   <component name="TodoView">
     <todo-panel id="selected-file">
@@ -653,25 +672,24 @@
     </todo-panel>
   </component>
   <component name="ToolWindowManager">
-    <frame x="-7" y="-7" width="1550" height="848" extended-state="6" />
+    <frame x="-7" y="-7" width="1550" height="848" extended-state="7" />
+    <editor active="true" />
     <layout>
       <window_info anchor="right" id="Palette" order="3" />
       <window_info anchor="bottom" id="TODO" order="6" weight="0.32913166" />
-      <window_info anchor="bottom" id="Messages" order="12" weight="0.30392158" />
       <window_info anchor="right" id="Palette&#9;" order="8" />
       <window_info id="Image Layers" order="2" />
       <window_info anchor="right" id="Capture Analysis" order="4" />
       <window_info anchor="bottom" id="Event Log" order="9" sideWeight="0.10575636" side_tool="true" weight="0.31932774" />
       <window_info anchor="right" id="Maven Projects" order="7" weight="0.10240964" />
       <window_info anchor="bottom" id="Database Changes" order="7" show_stripe_button="false" />
-      <window_info active="true" anchor="bottom" id="Run" order="2" sideWeight="0.89424366" visible="true" weight="0.32212886" />
+      <window_info anchor="bottom" id="Run" order="2" sideWeight="0.89424366" weight="0.2787115" />
       <window_info anchor="bottom" id="Version Control" order="10" />
       <window_info anchor="bottom" id="Terminal" order="8" weight="0.49579832" />
       <window_info id="Capture Tool" order="6" />
       <window_info id="Designer" order="3" />
-      <window_info content_ui="combo" id="Project" order="0" sideWeight="0.18627451" visible="true" weight="0.15595716" />
+      <window_info active="true" content_ui="combo" id="Project" order="0" sideWeight="0.18627451" visible="true" weight="0.1278447" />
       <window_info anchor="right" id="Database" order="6" weight="0.32931727" />
-      <window_info anchor="bottom" id="Find" order="1" weight="0.67086834" />
       <window_info id="Structure" order="1" sideWeight="0.8137255" side_tool="true" weight="0.229585" />
       <window_info anchor="right" id="Ant Build" order="1" weight="0.25" />
       <window_info id="UI Designer" order="4" />
@@ -684,6 +702,8 @@
       <window_info anchor="right" id="Commander" internal_type="SLIDING" order="0" type="SLIDING" weight="0.4" />
       <window_info anchor="bottom" id="Message" order="0" />
       <window_info anchor="bottom" id="Cvs" order="4" weight="0.25" />
+      <window_info anchor="bottom" id="Find" order="1" weight="0.67086834" />
+      <window_info anchor="bottom" id="Messages" order="12" weight="0.30392158" />
     </layout>
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -765,74 +785,6 @@
     </expressions>
   </component>
   <component name="editorHistoryManager">
-    <entry file="file://F:/Tencent/Document/Tencent Files/1939765238/FileRecv/MobileFile/Study/BITE/Java/JavaSE/yuisama/笔记/多线程复习笔记.java" />
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/sample/HelloWorld.java" />
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/sample/HelloWorldServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/www/wangchong/java/HeapSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="648">
-          <caret line="36" column="46" selection-start-line="36" selection-start-column="46" selection-end-line="36" selection-end-column="46" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/Arithmetic.iml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="234">
-          <caret line="13" column="18" selection-start-line="13" selection-start-column="18" selection-end-line="13" selection-end-column="18" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/HelloWorldClient.java" />
-    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_5/HelloWorldServer.java" />
-    <entry file="file://$PROJECT_DIR$/src/www/jisuanke/ds/Code_12_NMinAdd.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="526">
-          <caret line="47" column="5" selection-start-line="47" selection-start-column="5" selection-end-line="47" selection-end-column="5" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_02/Code_01_LeastRecentlyUsedCache.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Code_01_KMP.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
-          <caret line="43" column="13" selection-start-line="43" selection-start-column="13" selection-end-line="43" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Code_03_KMP_T1SubtreeEqualsT2.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_02_HanoiProblem.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_03_LongestPathSum.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_05_IsBalancedTree.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/advanced_class_01/Code_06_T1ContainsT2Topology.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="36">
@@ -858,13 +810,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-2250">
           <caret line="13" column="38" selection-start-line="13" selection-start-column="38" selection-end-line="13" selection-end-column="38" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_00_BubbleSort.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -932,20 +877,6 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/ThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/MyThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_4_2/ComputerProduct.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="-1175">
@@ -953,24 +884,10 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/PaperGiveOut.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/niuke/advance/class_02/Problem_07_AllLessNumSubArray.java">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="180">
           <caret line="10" column="22" selection-start-line="10" selection-start-column="22" selection-end-line="10" selection-end-column="22" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/TeacherTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="36">
-          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1032,7 +949,7 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/FileWrite.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="230">
+        <state relative-caret-position="306">
           <caret line="18" column="13" selection-start-line="18" selection-start-column="13" selection-end-line="18" selection-end-column="13" />
         </state>
       </provider>
@@ -1041,13 +958,6 @@
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="198">
           <caret line="12" column="13" selection-start-line="12" selection-start-column="13" selection-end-line="12" selection-end-column="13" />
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThread.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="72">
-          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
         </state>
       </provider>
     </entry>
@@ -1060,18 +970,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/HashMap2.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="216">
+        <state relative-caret-position="198">
           <caret line="12" column="38" selection-start-line="12" selection-start-column="38" selection-end-line="12" selection-end-column="38" />
-          <folding>
-            <element signature="imports" expanded="true" />
-          </folding>
-        </state>
-      </provider>
-    </entry>
-    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThreadTest.java">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="306">
-          <caret line="17" column="24" selection-start-line="17" selection-start-column="24" selection-end-line="17" selection-end-column="24" />
         </state>
       </provider>
     </entry>
@@ -1082,10 +982,160 @@
         </state>
       </provider>
     </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/RunnableTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/TeacherTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/ThreadTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="10" selection-start-line="10" selection-end-line="10" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/AddThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/IRunnable.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/MyThread.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/PaperGiveOut.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="36">
+          <caret line="2" column="13" selection-start-line="2" selection-start-column="13" selection-end-line="2" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/java/Chapter10/Accumulator.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="126">
+          <caret line="7" column="38" selection-start-line="7" selection-start-column="38" selection-end-line="7" selection-end-column="38" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/embarkation_6.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1656">
+          <caret line="92" selection-start-line="92" selection-end-line="92" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_01_Array_To_Stack_Queue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="13" selection-start-line="15" selection-start-column="13" selection-end-line="15" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_01_InsertionSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_04_DogCatQueue.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="5" column="13" selection-start-line="5" selection-start-column="13" selection-end-line="5" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_03_StackAndQueueConvert.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="468">
+          <caret line="30" column="40" selection-start-line="30" selection-start-column="40" selection-end-line="30" selection-end-column="40" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/A.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="162">
+          <caret line="9" column="18" selection-start-line="9" selection-start-column="18" selection-end-line="9" selection-end-column="18" />
+        </state>
+      </provider>
+    </entry>
     <entry file="file://$PROJECT_DIR$/src/www/wangchong/study/Test.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="342">
-          <caret line="31" column="13" selection-end-line="35" />
+        <state relative-caret-position="594">
+          <caret line="33" column="42" selection-start-line="33" selection-start-column="42" selection-end-line="33" selection-end-column="42" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_01/Code_00_BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="72">
+          <caret line="4" column="13" selection-start-line="4" selection-start-column="13" selection-end-line="4" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/chapter_2/GcdPro.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="180">
+          <caret line="25" column="24" selection-start-line="25" selection-start-column="24" selection-end-line="25" selection-end-column="24" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/homework/chapter_1/AndStarts.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="-360">
+          <caret line="14" column="13" selection-start-line="14" selection-start-column="13" selection-end-line="14" selection-end-column="13" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/bestresult/chapter_4_recursionanddp/Problem_17_NQueens.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1296">
+          <caret line="72" column="43" selection-start-line="72" selection-start-column="43" selection-end-line="72" selection-end-column="43" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_01_PreInPosTraversal.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="144">
+          <caret line="8" column="21" selection-start-line="8" selection-start-column="21" selection-end-line="8" selection-end-column="21" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_04/Code_02_PrintBinaryTree.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="198">
+          <caret line="13" selection-start-line="13" selection-end-line="14" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/www/niuke/basic/class_03/Code_02_GetMinStack.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="270">
+          <caret line="15" column="42" selection-start-line="15" selection-start-column="42" selection-end-line="15" selection-end-column="42" />
         </state>
       </provider>
     </entry>

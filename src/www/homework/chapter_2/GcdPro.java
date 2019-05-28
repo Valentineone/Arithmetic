@@ -23,9 +23,7 @@ public class GcdPro {
      * @return a,b的最小公倍数
      */
     private static int multiple(int a, int b) {
-        int temp;
-        temp = gcd(a,b);
-        return (a * b/temp);
+        return (a * b / gcd(a,b));
     }
 
     /**

@@ -1,4 +1,4 @@
-package www.niuke.class_04;
+package www.niuke.basic.class_04;
 //初级5_1
 import java.util.Stack;
 
@@ -59,7 +59,7 @@ public class Code_01_PreInPosTraversal {
 		}
 		System.out.println();
 	}
-    /*借助一个栈
+    /**借助一个栈
     * 一压压一排
     * 栈顶弹出，先弹出左孩子，因为该节点不存在左孩子右孩子所以中弹出来
     * 中被弹出来到右孩子，右孩子压栈，右孩子的左边界全部压进去
@@ -67,7 +67,8 @@ public class Code_01_PreInPosTraversal {
     * 这个方法改两行code就是搜索二叉树，加一个return
     * */
 	public static void inOrderUnRecur(Node head) {
-		System.out.print("in-order: ");//1.设置一个变量pre保存上一个变量的值
+		//1.设置一个变量pre保存上一个变量的值
+		System.out.print("in-order: ");
 		if (head != null) {
 			Stack<Node> stack = new Stack<Node>();
 			/*
@@ -80,14 +81,15 @@ public class Code_01_PreInPosTraversal {
 					head = head.left;
 				} else {
 					head = stack.pop();
-					System.out.print(head.value + " ");//2.判断与上一个打印的树是比他大
+					//2.判断与上一个打印的树是比他大
+					System.out.print(head.value + " ");
 					head = head.right;
 				}
 			}
 		}
 		System.out.println();
 	}
-    /*
+    /**
     * 实现左右中
     * 先实现中右左
     * 先序是中左右
@@ -102,7 +104,8 @@ public class Code_01_PreInPosTraversal {
 			s1.push(head);
 			while (!s1.isEmpty()) {
 				head = s1.pop();
-				s2.push(head);//打印时机
+				//打印时机
+				s2.push(head);
 				if (head.left != null) {
 					s1.push(head.left);
 				}
@@ -110,7 +113,8 @@ public class Code_01_PreInPosTraversal {
 					s1.push(head.right);
 				}
 			}
-			while (!s2.isEmpty()) {//单独打印辅助栈
+			//单独打印辅助栈
+			while (!s2.isEmpty()) {
 				System.out.print(s2.pop().value + " ");
 			}
 		}
