@@ -1,4 +1,4 @@
-package www.niuke.class_03;
+package www.niuke.basic.class_03;
 
 import java.util.Stack;
 

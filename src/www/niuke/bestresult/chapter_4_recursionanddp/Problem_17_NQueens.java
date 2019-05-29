@@ -1,4 +1,4 @@
-package chapter_4_recursionanddp;
+package www.niuke.bestresult.chapter_4_recursionanddp;
 
 public class Problem_17_NQueens {
 

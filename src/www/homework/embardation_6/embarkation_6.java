@@ -1,4 +1,4 @@
-package www.homework;
+package www.homework.embardation_6;
 
 import java.util.Scanner;
 
